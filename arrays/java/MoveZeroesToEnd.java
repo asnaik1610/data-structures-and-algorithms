@@ -1,4 +1,4 @@
-package arrays.Java;
+package arrays.java;
 
 public class MoveZeroesToEnd {
     void pushZerosToEnd(int[] arr) {
