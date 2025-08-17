@@ -29,7 +29,7 @@ public class FormTheLargestNumber {
         // 1st approach
         // problem -> doesn't compare the numbers pairwise, also parseLong will break
         // for large numbers
-        // learning -> a comparator is just a universal rule that, given any two
+        // learning -> a comparator is just an universal rule that, given any two
         // elements, decides which one should come before the other in the final order.
         // String res = String.valueOf(arr[0]);
         // for(int i=1; i<arr.length; i++){
